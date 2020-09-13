@@ -1,15 +1,13 @@
-react-reddit-client
+project-apollo
 ===================
 
 A simple Reddit client written with [React](https://facebook.github.io/react/). This project is run
 and built using [create-react-app](https://github.com/facebook/create-react-app) in order to keep
 things simple to maintain.
 
-## Demo
+## Developer Advocate
 
-https://ssorallen.github.io/react-reddit-client/
-
-![](./react-reddit-client%20Interface.png)
+I belive the role of a developer advocate is to be able to speak to the community and understand enough to find the answer.
 
 ### Running Locally
 
