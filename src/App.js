@@ -155,7 +155,7 @@ export default function App() {
   return (
     <React.Fragment>
       <p className="creator">
-        Created by <a href="https://twitter.com/mpmike">Redacted</a>
+        Created by <a href="https://www.youtube.com/channel/UCwaWO9y9NZ7_UYhhoNPwqTw">Redacted</a>
         <br />
       </p>
       <h1>
