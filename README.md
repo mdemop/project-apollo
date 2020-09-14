@@ -7,7 +7,7 @@ things simple to maintain.
 
 ## Developer Advocate
 
-I belive the role of a developer advocate is to be able to speak to the community and understand enough to find the answer.
+I believe the role of a developer advocate is to be able to speak to the community and understand enough to find the answer.
 
 ### Running Locally
 
